@@ -1,0 +1,17 @@
+{
+  "B": 10,
+  "B_prime": 2,
+  "C": 3,
+  "M_fraction": 0.3,
+  "m": 2.0,
+  "h": 1.0,
+  "alpha": 0.6,
+  "beta1": 0.01,
+  "beta2": 0.01,
+  "beta3": 0.001,
+  "num_epochs": 5,
+  "maxIter": 2000,
+  "minimumLossMargin": 1e-05,
+  "seed": 42,
+  "device": "cpu"
+}

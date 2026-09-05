@@ -1,0 +1,26 @@
+[
+  {
+    "source": "MLTSK_fuzzylabel_3_GPU.py",
+    "sha256": "2f51009d856e146a727347689f43199e96c9dcaf250804241a318f302042b1b1"
+  },
+  {
+    "source": "evaluation_out.py",
+    "sha256": "e83c9bfddc0a60fa6bdd4fc9113f01009a61200fec1506505d7604152e6f92e9"
+  },
+  {
+    "source": "main_optuna_3_GPU.py",
+    "sha256": "13201b27ae31695f7717be50df878f62ebb4198147fa2b3eaa356fa3672e8b59"
+  },
+  {
+    "source": "run_complexity_convergence_all.py",
+    "sha256": "85d983e3cac339c54b4ec6906d70664699aa76142269bd1e34d5d3f62e0a3a79"
+  },
+  {
+    "source": "PARAMETER_SYMBOLS.md",
+    "sha256": "d3871693ce692c5ae9c4e3c922f9f57cae84408807e375a322740fb6426f3308"
+  },
+  {
+    "source": "9.2-Manuscript-Revision-reference-updated.tex",
+    "sha256": "0b255c6eb359ef2922fd401127587c82e96a71c00c4a592f664b294b8b607ebe"
+  }
+]
